@@ -78,13 +78,18 @@ This project performs a GIS-based land suitability analysis using a scoring and 
 The following maps are generated to visualize suitability scores for each criterion:
 
 - **Distance to Road Score Map**
+![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_jarak_ke_jalan.png)
 - **Slope Score Map**
+![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_kemiringan_lahan.png)
 - **Land Use Score Map**
+![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_tutupan_lahan.png)
 - **River Buffer Map**
+![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/buffer_sungai_200.png)
 
 ---
 
 ## 3. Final Suitability Score Map
+![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_akhir_layout.png)
 
 The final land suitability map is produced by combining all scored criteria using a weighted overlay approach. Areas within restricted river buffer zones are excluded from the final result.
 
