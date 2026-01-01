@@ -79,10 +79,13 @@ The following maps are generated to visualize suitability scores for each criter
 
 - **Distance to Road Score Map**
 ![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_jarak_ke_jalan.png)
+
 - **Slope Score Map**
 ![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_kemiringan_lahan.png)
+
 - **Land Use Score Map**
 ![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/skor_tutupan_lahan.png)
+
 - **River Buffer Map**
 ![image_alt](https://github.com/rafiadyatma/Land-Suitability-Analysis/blob/f4840597d29a15ff56e63fd93fdc222a933663d3/layout_Views/buffer_sungai_200.png)
 
